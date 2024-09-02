@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Supreme Suwal</h1>
 <h3 align="center">A passionate web developer from Bhaktapur</h3>
 
+<img align ="right" alt="gif coding" width = "450" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 - 🔭 I’m currently working on **self development**
 
 - 🌱 I’m currently learning **web development**
